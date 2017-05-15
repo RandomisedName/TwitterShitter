@@ -1,1 +1,2 @@
-<string> Description of error <error log>
+<main.py><51>< TwythonDeprecationWarning: This method is deprecated. You should use Twython.upload_media instead>
+<main.py><53><Не выводится текст в файл><>
